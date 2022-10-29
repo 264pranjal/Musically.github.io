@@ -1,7 +1,6 @@
-# BassRize-Online-Music-Player
-<img src="https://img.shields.io/github/issues/parikshit223933/BassRize-Online-Music-Player"> <img src="https://img.shields.io/github/forks/parikshit223933/BassRize-Online-Music-Player"> <img src="https://img.shields.io/github/stars/parikshit223933/BassRize-Online-Music-Player"> 
+# Musically-Online-Music-Player
 
-(https://parikshit223933.github.io/BassRize-Online-Music-Player/)
+(https://264pranjal.github.io/Musically.github.io/)
 
 
 This online music player is completely based on HTML and CSS.
@@ -18,7 +17,3 @@ This online music player is completely based on HTML and CSS.
 The hierarchy shown above is not the folder structure. The sub-Files are used by the parent file.<br>
 `index.html` uses `stylesheet_main.css` for all the basic styling and `primary page responsive.css` for all the meida queries related to responsiveness.<br>
 Similarly `Single Playlist Screen.html` uses `Single Playlist Screen Styles.css` for all the basic styling and `Secondary page responsive.css` for all the meida queries related to responsiveness.
-
-# Contribution
-
-Contributions will not be accepted on this repository.
